@@ -1,0 +1,3 @@
+/Users/willgriffin/Desktop/Code/lithium/build/CMakeFiles/lithium.dir
+/Users/willgriffin/Desktop/Code/lithium/build/CMakeFiles/edit_cache.dir
+/Users/willgriffin/Desktop/Code/lithium/build/CMakeFiles/rebuild_cache.dir
